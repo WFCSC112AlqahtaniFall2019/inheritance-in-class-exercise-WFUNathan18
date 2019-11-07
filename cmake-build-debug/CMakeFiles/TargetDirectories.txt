@@ -1,0 +1,3 @@
+/Users/Nathan/CLionProjects/inheritance-in-class-exercise-WFUNathan18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Nathan/CLionProjects/inheritance-in-class-exercise-WFUNathan18/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Nathan/CLionProjects/inheritance-in-class-exercise-WFUNathan18/cmake-build-debug/CMakeFiles/inhertance_exercise.dir
